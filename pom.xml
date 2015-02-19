@@ -16,12 +16,6 @@
             <url>http://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
     </licenses>
-<pluginRepositories>   
-    <pluginRepository>
-        <id>public</id>
-        <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-    </pluginRepository>
-</pluginRepositories>
 <repositories>
     <repository>
         <id>sonatype-nexus-snapshots</id>
